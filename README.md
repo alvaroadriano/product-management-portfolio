@@ -26,9 +26,11 @@ Product direction and roadmap work for web applications supporting omnichannel s
 
 [Read the case study](x7-omnichannel-sales-product.md)
 
-### 4. Enterprise Policy Simplification — FARFETCH LATAM
+## Additional enterprise transformation experience
 
-Coordinated a year-long cross-functional review of approximately 200 policies in a SOX context. The overall policy count was reduced by 20% through consolidation and removal, while some new policies were created where needed.
+### Policy Simplification — FARFETCH LATAM
+
+A cross-functional governance initiative that reviewed approximately 200 policies over a year and reduced the overall policy count by 20% through consolidation and removal, while creating some new policies where needed. This experience complements my product work in enterprise platforms, procurement, and operational workflows.
 
 [Read the case study](farfetch-policy-simplification.md)
 
