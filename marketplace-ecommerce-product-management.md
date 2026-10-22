@@ -1,42 +1,46 @@
-# Marketplace and E-commerce Product Management — FARFETCH
+# Violet Grey Marketplace Integration — FARFETCH
 
 **Role:** Senior Product Manager  
 **Period:** March 2023–May 2025  
-**Focus:** Marketplace integration, commerce journeys, product requirements, roadmaps, and cross-functional delivery
+**Focus:** Beauty marketplace integration, personalized recommendations, bundled purchases, roadmap and requirements
 
 ## Context
 
-FARFETCH's digital commerce experience depended on coordinated marketplace, search, product detail, payment, checkout, and logistics capabilities. Product work required balancing customer needs, business priorities, and technical delivery across multiple teams.
+Violet Grey was an acquired beauty e-commerce business with its own customer experience and operating needs. The product challenge was to connect its beauty assortment to FARFETCH’s marketplace while balancing the needs of the standalone business, the broader marketplace, and customers shopping across both experiences.
 
-## The product challenge
+## Product challenge
 
-Commerce initiatives touched connected parts of the shopping journey. Product decisions needed to be translated into clear requirements and coordinated across Engineering, Design, and business stakeholders, including when work involved integrations or operational dependencies.
+A catalog connection alone would not create a useful shopping experience. Customers needed relevant ways to discover beauty products and combine them with other purchases, while teams needed clear product decisions and coordinated delivery across the two commerce environments.
 
 ## My contribution
 
-As a Senior Product Manager, I worked on product strategy, requirements, roadmaps, and backlogs across digital commerce initiatives. My experience included the Violet Grey marketplace integration and product work involving search, product detail pages, front-end SEO improvements, payments, checkout, and logistics. I partnered with Engineering and Design to clarify needs and coordinate delivery.
+I owned roadmap direction, product strategy, and feature requirements for the Violet Grey marketplace integration. I worked with Engineering, Design, and Data to translate customer and business needs into product details, requirements, and stories.
 
-Related initiatives included Adyen merchant-initiated transaction workflows and Klaviyo-related customer engagement integrations. This summary describes product and requirements contribution; it does not claim sole ownership of implementation or a specific technical architecture.
+A key part of the work was bringing Violet Grey’s beauty catalog into FARFETCH’s marketplace experience and establishing personalized recommendations and bundled purchasing as cross-sell and upsell capabilities. I managed priorities and dependencies while accounting for the acquired business’s standalone operations and marketplace integration needs.
 
 ## How I approached it
 
-1. **Connected work to the customer journey:** framed initiatives around marketplace and commerce experiences rather than isolated system changes.
-2. **Clarified requirements:** translated business and product needs into work that teams could assess and deliver.
-3. **Managed priorities:** maintained roadmap and backlog context across interdependent commerce capabilities.
-4. **Coordinated delivery:** worked with Engineering, Design, and business partners on dependencies and execution.
+- **Balanced two contexts:** considered Violet Grey’s standalone business alongside the FARFETCH marketplace experience.
+- **Connected discovery to purchase:** shaped recommendations and bundles as ways to help customers discover relevant products and shop across categories.
+- **Made the work actionable:** translated strategy into product details, requirements, and stories for delivery teams.
+- **Coordinated across disciplines:** aligned Engineering, Design, and Data around priorities and dependencies.
 
 ## Outcome and evidence
 
-The work contributed to marketplace integration and payment, checkout, and logistics improvements. The evidence available supports these qualitative outcomes, but does not establish a verified conversion, average order value, or abandonment impact for this case. No uplift figures are claimed.
+The work established an initial cross-sell and upsell capability through personalized recommendations and bundled purchases, with a baseline for future evaluation. I do not claim a verified conversion, average order value, or revenue lift for this work.
+
+## What I learned
+
+Marketplace integration after an acquisition is a product experience problem as much as a catalog or platform problem. It requires understanding what should remain distinctive for the acquired business and where shared marketplace capabilities can make shopping more useful.
 
 ## What this demonstrates
 
-- Digital commerce product management
-- Marketplace and platform integration experience
-- Product requirements and backlog coordination
-- Cross-functional work with Engineering and Design
-- Customer-journey thinking across connected capabilities
+- Marketplace product strategy and integration
+- E-commerce discovery and cross-sell experiences
+- Roadmap ownership and product requirements
+- Collaboration with Engineering, Design, and Data
+- Product judgment in an acquired-business context
 
 ## Evidence note
 
-This public case summarizes representative experience. It excludes confidential roadmap details, internal analytics, customer data, and proprietary screenshots.
+This is a public summary of my contribution. It excludes confidential roadmap details, internal analytics, customer data, and proprietary screenshots. The case is qualitative because verified outcome metrics are not available for publication.
