@@ -1,46 +1,60 @@
 # Violet Grey Marketplace Integration — FARFETCH
 
-**Role:** Senior Product Manager  
+**Role:** Senior Product Manager / Growth Product Manager  
 **Period:** March 2023–May 2025  
-**Focus:** Beauty marketplace integration, personalized recommendations, bundled purchases, roadmap and requirements
+**Focus:** Beauty marketplace integration, discovery, personalized recommendations, bundled purchases
 
-## Context
+## Executive summary
 
-Violet Grey was an acquired beauty e-commerce business with its own customer experience and operating needs. The product challenge was to connect its beauty assortment to FARFETCH’s marketplace while balancing the needs of the standalone business, the broader marketplace, and customers shopping across both experiences.
+After FARFETCH acquired Violet Grey, I owned product strategy and roadmap work for connecting its U.S. beauty e-commerce business to the FARFETCH marketplace while supporting its standalone storefront. I translated business and customer needs into product requirements, user stories, backlog priorities, and delivery coordination across Engineering, Design, and Data. The work established personalized recommendations and bundled purchasing as cross-sell capabilities.
 
-## Product challenge
+## Context and product challenge
 
-A catalog connection alone would not create a useful shopping experience. Customers needed relevant ways to discover beauty products and combine them with other purchases, while teams needed clear product decisions and coordinated delivery across the two commerce environments.
+Violet Grey had a distinct beauty assortment and standalone e-commerce experience. The product challenge was to connect beauty products to FARFETCH’s marketplace and shopping journey while preserving the acquired business’s standalone experience. Customers needed recommendations to feel relevant to the products and context they were viewing; an irrelevant module could add clutter without helping discovery.
 
-## My contribution
+## My role
 
-I owned roadmap direction, product strategy, and feature requirements for the Violet Grey marketplace integration. I worked with Engineering, Design, and Data to translate customer and business needs into product details, requirements, and stories.
+I owned product strategy, roadmap direction, requirements, user stories, and backlog priorities for the Violet Grey marketplace integration and related growth work. I worked with Engineering, Design, and Data to define product details, clarify dependencies, and coordinate delivery. I also supported stakeholder alignment and Agile delivery activities.
 
-A key part of the work was bringing Violet Grey’s beauty catalog into FARFETCH’s marketplace experience and establishing personalized recommendations and bundled purchasing as cross-sell and upsell capabilities. I managed priorities and dependencies while accounting for the acquired business’s standalone operations and marketplace integration needs.
+Related commerce work included coordinating Apple Pay / one-click payment and logistics integrations with backend engineering. These were part of the broader commerce scope and are not presented as measured outcomes of the recommendation and bundle capability.
+
+## Product decision: relevance before placement
+
+We established a rule for the recommendation experience: show the module only when a relevant recommendation was available. If the system could not provide a relevant item, the module would not be displayed. This kept the experience focused on useful discovery instead of filling space with generic cross-sell content.
+
+This decision shaped the product requirements and the collaboration with Data and Engineering around recommendation availability and presentation.
+
+## Product scope
+
+- Connect Violet Grey’s beauty catalog to the FARFETCH marketplace experience.
+- Support personalized recommendations based on customer or product relevance.
+- Enable customers to purchase eligible items together through bundles.
+- Preserve the standalone storefront needs of the acquired business.
+- Coordinate requirements and dependencies across product, data, design, and engineering.
 
 ## How I approached it
 
-- **Balanced two contexts:** considered Violet Grey’s standalone business alongside the FARFETCH marketplace experience.
-- **Connected discovery to purchase:** shaped recommendations and bundles as ways to help customers discover relevant products and shop across categories.
-- **Made the work actionable:** translated strategy into product details, requirements, and stories for delivery teams.
-- **Coordinated across disciplines:** aligned Engineering, Design, and Data around priorities and dependencies.
+- **Balanced marketplace and standalone needs:** considered shared marketplace discovery alongside Violet Grey’s existing storefront.
+- **Translated strategy into delivery:** converted the product direction into requirements, user stories, and prioritized backlog work.
+- **Used relevance as a quality bar:** avoided rendering a recommendation module when no relevant item was available.
+- **Coordinated cross-functional dependencies:** worked with Engineering, Design, and Data, including backend teams for adjacent payment and logistics integrations.
 
 ## Outcome and evidence
 
-The work established an initial cross-sell and upsell capability through personalized recommendations and bundled purchases, with a baseline for future evaluation. I do not claim a verified conversion, average order value, or revenue lift for this work.
+The marketplace integration established an initial personalized recommendation and bundled-purchase capability. Initial conversions occurred after launch. No exact conversion, average order value, revenue, or incremental uplift figures are available for publication, so this case makes no quantified impact claim.
 
 ## What I learned
 
-Marketplace integration after an acquisition is a product experience problem as much as a catalog or platform problem. It requires understanding what should remain distinctive for the acquired business and where shared marketplace capabilities can make shopping more useful.
+A recommendation feature needs a clear fallback for when relevance is absent. Suppressing a low-quality placement can protect the customer journey while creating a better foundation for future measurement and iteration. In an acquisition, the product experience also needs to respect what the standalone business still requires.
 
 ## What this demonstrates
 
-- Marketplace product strategy and integration
-- E-commerce discovery and cross-sell experiences
-- Roadmap ownership and product requirements
-- Collaboration with Engineering, Design, and Data
-- Product judgment in an acquired-business context
+- Product strategy and roadmap ownership in an acquired-business context
+- Marketplace and e-commerce integration
+- Personalized discovery and cross-sell product thinking
+- Product requirements, user stories, and backlog prioritization
+- Cross-functional delivery with Engineering, Design, and Data
 
 ## Evidence note
 
-This is a public summary of my contribution. It excludes confidential roadmap details, internal analytics, customer data, and proprietary screenshots. The case is qualitative because verified outcome metrics are not available for publication.
+This public case summarizes my contribution and verified product direction. It excludes confidential analytics, customer data, internal roadmaps, and proprietary implementation details. The recommendation relevance rule is described at a product level; no algorithm or architecture is claimed.
