@@ -19,6 +19,8 @@ I led procurement-area implementation work and represented regional business req
 
 I coordinated requirements and dependencies with Procurement, Finance and Accounts Payable, Legal, HR, IT, Tax, and Operations. Engineering and system teams handled technical configuration and integration delivery; I do not claim sole ownership of software implementation or architecture.
 
+The product leadership challenge was to make these handoffs work as one regional process while allowing country-specific tax, approval, and finance requirements to be handled by the right local and global owners. My role was to define business needs and workflow behavior, align stakeholders, and coordinate delivery across the systems involved.
+
 ## Product and workflow scope
 
 - Purchase requests and Delegation of Authority approvals
@@ -30,7 +32,7 @@ I coordinated requirements and dependencies with Procurement, Finance and Accoun
 
 The simplified flow below describes the business process, not a historical system architecture:
 
-```mermaid
+~~~mermaid
 flowchart LR
     A[Purchase request] --> B[DOA approval]
     B --> C[Sourcing or catalog]
@@ -38,7 +40,7 @@ flowchart LR
     D --> E[Receiving]
     E --> F[Invoice and Accounts Payable]
     F --> G[D365 and reporting]
-```
+~~~
 
 ## Outcome and evidence
 
@@ -57,3 +59,5 @@ Separately, I coordinated a year-long FARFETCH LATAM policy review covering appr
 ## Evidence note
 
 This public-safe case summarizes my contribution and representative business workflows. It excludes confidential configuration, internal control documentation, supplier or customer data, and proprietary materials.
+
+See the [illustrative workflow and user stories](sample-coupa-workflow-and-user-stories.md) for a reconstructed example of how I would express requirements and acceptance criteria. It is not an original implementation artifact.
