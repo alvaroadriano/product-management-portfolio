@@ -1,6 +1,6 @@
 # Violet Grey Marketplace Integration — FARFETCH
 
-**Role:** Senior Product Manager / Growth Product Manager  
+**Role:** Senior Product Manager, Growth Product work  
 **Period:** March 2023–May 2025  
 **Focus:** Beauty marketplace integration, discovery, personalized recommendations, bundled purchases
 
