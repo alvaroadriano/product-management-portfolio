@@ -1,41 +1,34 @@
 # LATAM Business Spend Management — FARFETCH
 
-**Role:** Procurement Lead, LATAM / Coupa Product Manager  
+**Role:** Digital Transformation Lead, LATAM (business-side product and implementation leadership)  
 **Period:** April 2021–April 2023  
 **Markets:** Brazil and Mexico  
-**Focus:** Product implementation, procure-to-pay workflows, ERP and finance integration, control requirements
+**Focus:** Coupa workflows, procure-to-pay, finance and ERP dependencies, controls
 
 ## Executive summary
 
-I led product and implementation work for FARFETCH’s LATAM Business Spend Management platform, translating regional procurement and finance requirements into Coupa workflows and coordinating the implementation across business and technology teams. The platform connected procurement work with Microsoft D365 and Power BI and supported an end-to-end purchase process in Brazil and Mexico.
+As FARFETCH’s Digital Transformation Lead for LATAM, I led the business-side product and implementation work for the regional Business Spend Management platform. I translated procurement and finance requirements into Coupa workflows and coordinated delivery across business and technology teams in Brazil and Mexico. The work connected procurement processes with Microsoft D365, Power BI, country tax processes, and Amazon PunchOut.
 
-## Context and challenge
+## Challenge
 
-The implementation needed to support connected procurement processes while accounting for country-specific business, tax, finance, and control requirements. Employees and procurement teams needed a usable path from purchase request through sourcing and ordering, while Finance and Accounts Payable needed the information and handoffs required for invoice processing.
+The implementation had to connect the employee purchase journey with procurement, finance, and compliance processes across two markets. Requests, approvals, sourcing, purchase orders, receiving, and invoice processing depended on consistent ownership and reliable handoffs. Regional requirements also had to fit the SOX control environment and the capabilities of connected systems.
 
-The work took place in a SOX context and involved regional process owners alongside global and local stakeholders.
+## My contribution
 
-## My role
+I led procurement-area implementation work and represented regional business requirements. I gathered and clarified needs, defined workflows and business rules, managed roadmap and delivery coordination, aligned stakeholders, and supported training, rollout, and post-implementation improvements.
 
-I served as the Coupa Product Manager for LATAM and led procurement-area implementation work in Brazil and Mexico. My responsibilities included requirements and business rules, workflow definition, roadmap and delivery coordination, cross-functional alignment, training and operational support, and continued improvement after implementation.
+I coordinated requirements and dependencies with Procurement, Finance and Accounts Payable, Legal, HR, IT, Tax, and Operations. Engineering and system teams handled technical configuration and integration delivery; I do not claim sole ownership of software implementation or architecture.
 
-I coordinated requirements and dependencies with Procurement, Finance, Legal, HR, IT, and Operations. Technical configuration and integration delivery involved the relevant engineering and system teams; I do not claim sole ownership of architecture or implementation.
+## Product and workflow scope
 
-## Product scope
-
-The regional scope included:
-
-- Purchase requests and procurement business rules
-- Delegation of Authority approval workflows
-- Sourcing and quotation activity
-- Purchase orders and receiving
-- Invoices and Accounts Payable handoffs
+- Purchase requests and Delegation of Authority approvals
+- Sourcing and quotations, purchase orders, and receiving
+- Invoice and Accounts Payable handoffs
 - Country-specific tax and finance requirements
-- Amazon PunchOut catalog connection
-- Coupa integration with Microsoft D365 and Power BI
-- SOX-related training, controls, and operational monitoring
+- Coupa dependencies with Microsoft D365, Power BI, and Amazon PunchOut
+- SOX-related controls, training, and operational monitoring
 
-## End-to-end workflow
+The simplified flow below describes the business process, not a historical system architecture:
 
 ```mermaid
 flowchart LR
@@ -47,33 +40,20 @@ flowchart LR
     F --> G[D365 and reporting]
 ```
 
-This simplified view represents the business process at a high level. Country-specific tax, approval, exception, and finance rules were handled through requirements and implementation coordination.
-
-## How I approached the work
-
-- **Mapped the regional process:** connected request, approval, sourcing, order, receiving, and invoice requirements into an end-to-end procurement workflow.
-- **Translated local requirements:** worked through business rules, tax, Finance/AP, and approval needs for Brazil and Mexico with the appropriate stakeholders.
-- **Managed dependencies:** coordinated Coupa workflows with D365, Power BI, PunchOut, Finance/AP, and operational processes.
-- **Supported adoption and controls:** contributed to training and monitoring in a SOX environment and continued to support post-implementation improvements.
-
 ## Outcome and evidence
 
-The implementation connected LATAM procurement workflows with finance and ERP processes across Brazil and Mexico, with post-implementation support and ongoing improvements.
+The work connected LATAM procurement workflows with finance and ERP processes across Brazil and Mexico. Verified cycle-time, savings, spend, compliance, and adoption measures are not available for publication, so I make no quantified claim for the platform implementation.
 
-I do not claim quantified reductions in processing time or cost, user adoption, spend managed, or productivity because verified measures for those outcomes are not available for publication.
+Separately, I coordinated a year-long FARFETCH LATAM policy review covering approximately 200 policies. The review reduced the policy count by about 20% through consolidation and removal while adding policies where needed. See the [policy simplification case](farfetch-policy-simplification.md).
 
 ## What this demonstrates
 
-- Product ownership across a multi-country business platform
-- Requirements translation across Procurement, Finance, Legal, HR, IT, and Operations
-- End-to-end workflow and integration coordination
-- Enterprise process design in a control environment
-- Implementation, training, operational support, and continuous improvement
-
-## What I learned
-
-Enterprise platform work depends on getting the process and ownership boundaries clear across functions and systems. Regional requirements, control expectations, and downstream finance needs need to be considered as one connected experience from request through invoice.
+- Business-side product leadership for a multi-market enterprise platform
+- Requirements translation across Procurement, Finance/AP, IT, Tax, Legal, HR, and Operations
+- Procure-to-pay workflow and system-dependency design
+- Delivery coordination and adoption support in a SOX environment
+- Clear ownership boundaries between product, implementation, and engineering
 
 ## Evidence note
 
-This case summarizes my contribution using public-safe details. It excludes confidential configuration, internal control documentation, supplier/customer data, and proprietary materials. The workflow diagram is a simplified reconstruction.
+This public-safe case summarizes my contribution and representative business workflows. It excludes confidential configuration, internal control documentation, supplier or customer data, and proprietary materials.
