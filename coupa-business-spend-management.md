@@ -1,69 +1,79 @@
-# LATAM Spend Management Workflows — FARFETCH
+# LATAM Business Spend Management — FARFETCH
 
-**Role:** Procurement Lead, LATAM  
+**Role:** Procurement Lead, LATAM / Coupa Product Manager  
 **Period:** April 2021–April 2023  
-**Focus:** Enterprise workflow design, regional implementation, approvals, finance integrations, and adoption
+**Markets:** Brazil and Mexico  
+**Focus:** Product implementation, procure-to-pay workflows, ERP and finance integration, control requirements
 
-## Context
+## Executive summary
 
-FARFETCH's LATAM Coupa implementation connected procurement activity with Finance and ERP processes in Brazil and Mexico. The scope crossed sourcing, purchasing, approvals, receiving, tax, and accounts payable.
+I led product and implementation work for FARFETCH’s LATAM Business Spend Management platform, translating regional procurement and finance requirements into Coupa workflows and coordinating the implementation across business and technology teams. The platform connected procurement work with Microsoft D365 and Power BI and supported an end-to-end purchase process in Brazil and Mexico.
 
-## The product challenge
+## Context and challenge
 
-Regional teams needed end-to-end workflows that reflected local business rules while supporting shared controls and connected systems. A requirement at one step—such as approval authority or tax treatment—could affect downstream purchase orders, receiving, and invoice processing.
+The implementation needed to support connected procurement processes while accounting for country-specific business, tax, finance, and control requirements. Employees and procurement teams needed a usable path from purchase request through sourcing and ordering, while Finance and Accounts Payable needed the information and handoffs required for invoice processing.
 
-## My contribution
+The work took place in a SOX context and involved regional process owners alongside global and local stakeholders.
 
-As Procurement Lead for LATAM, I coordinated business requirements and supported implementation across Brazil and Mexico. I worked across Procurement, Finance/AP, Compliance, and technical and functional partners to clarify business rules, map approval flows, and align process needs with the platform and connected systems.
+## My role
 
-The documented scope included:
+I served as the Coupa Product Manager for LATAM and led procurement-area implementation work in Brazil and Mexico. My responsibilities included requirements and business rules, workflow definition, roadmap and delivery coordination, cross-functional alignment, training and operational support, and continued improvement after implementation.
 
-- Sourcing and purchase requests
-- Delegation of Authority (DOA) approvals
-- Purchase orders, receiving, and invoices
-- Coupa and Microsoft Dynamics 365 (D365) ERP processes
-- Tax and Finance/AP requirements
-- Amazon PunchOut catalog connectivity
+I coordinated requirements and dependencies with Procurement, Finance, Legal, HR, IT, and Operations. Technical configuration and integration delivery involved the relevant engineering and system teams; I do not claim sole ownership of architecture or implementation.
 
-My contribution was business and product-facing: requirements, workflow alignment, stakeholder coordination, and implementation support. I did not personally engineer the integrations or configure the platform.
+## Product scope
 
-## Simplified business flow
+The regional scope included:
 
-This is a high-level business view, not a system architecture diagram.
+- Purchase requests and procurement business rules
+- Delegation of Authority approval workflows
+- Sourcing and quotation activity
+- Purchase orders and receiving
+- Invoices and Accounts Payable handoffs
+- Country-specific tax and finance requirements
+- Amazon PunchOut catalog connection
+- Coupa integration with Microsoft D365 and Power BI
+- SOX-related training, controls, and operational monitoring
 
+## End-to-end workflow
 
 ```mermaid
 flowchart LR
-  A["Sourcing or catalog request"] --> B["Business rules and DOA approval"]
-  B --> C["Purchase order"]
-  C --> D["Receiving"]
-  D --> E["Invoice and Finance/AP"]
-  B -. "D365, tax, PunchOut requirements" .-> C
+    A[Purchase request] --> B[DOA approval]
+    B --> C[Sourcing or catalog]
+    C --> D[Purchase order]
+    D --> E[Receiving]
+    E --> F[Invoice and Accounts Payable]
+    F --> G[D365 and reporting]
 ```
 
-## How I approached it
+This simplified view represents the business process at a high level. Country-specific tax, approval, exception, and finance rules were handled through requirements and implementation coordination.
 
-1. **Clarified regional requirements:** captured Brazil and Mexico needs across procurement, finance, tax, and compliance.
-2. **Connected the workflow end to end:** considered how sourcing, approvals, POs, receiving, and invoices depended on one another.
-3. **Aligned business rules and integrations:** coordinated DOA, D365, tax, Finance/AP, and Amazon PunchOut requirements with implementation partners.
-4. **Supported rollout and adoption:** helped regional users and stakeholders work through standardized platform processes.
+## How I approached the work
+
+- **Mapped the regional process:** connected request, approval, sourcing, order, receiving, and invoice requirements into an end-to-end procurement workflow.
+- **Translated local requirements:** worked through business rules, tax, Finance/AP, and approval needs for Brazil and Mexico with the appropriate stakeholders.
+- **Managed dependencies:** coordinated Coupa workflows with D365, Power BI, PunchOut, Finance/AP, and operational processes.
+- **Supported adoption and controls:** contributed to training and monitoring in a SOX environment and continued to support post-implementation improvements.
 
 ## Outcome and evidence
 
-The work supported a connected LATAM spend-management implementation across procurement and finance workflows. The evidence confirms scope and implementation responsibilities but does not provide a defensible time-savings, cost-savings, or adoption metric, so none is claimed here.
+The implementation connected LATAM procurement workflows with finance and ERP processes across Brazil and Mexico, with post-implementation support and ongoing improvements.
 
-## My takeaway
-
-In enterprise workflow products, the handoffs matter as much as each individual screen. Surfacing approval, tax, ERP, receiving, and invoice dependencies early helps teams define a process that can work from request through payment.
+I do not claim quantified reductions in processing time or cost, user adoption, spend managed, or productivity because verified measures for those outcomes are not available for publication.
 
 ## What this demonstrates
 
-- Enterprise product and business-systems work
-- Requirements across functions and markets
-- Workflow and approval design
-- Integration planning across procurement and finance
-- Cross-functional implementation leadership
+- Product ownership across a multi-country business platform
+- Requirements translation across Procurement, Finance, Legal, HR, IT, and Operations
+- End-to-end workflow and integration coordination
+- Enterprise process design in a control environment
+- Implementation, training, operational support, and continuous improvement
+
+## What I learned
+
+Enterprise platform work depends on getting the process and ownership boundaries clear across functions and systems. Regional requirements, control expectations, and downstream finance needs need to be considered as one connected experience from request through invoice.
 
 ## Evidence note
 
-This public summary is based on my documented experience. The workflow view is a simplified reconstruction; it does not reproduce FARFETCH configuration, internal process maps, or proprietary technical details.
+This case summarizes my contribution using public-safe details. It excludes confidential configuration, internal control documentation, supplier/customer data, and proprietary materials. The workflow diagram is a simplified reconstruction.
