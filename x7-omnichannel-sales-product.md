@@ -2,41 +2,62 @@
 
 **Role:** Web Application Sales Product Manager  
 **Period:** April 2015–October 2018  
-**Focus:** Product strategy, roadmap, user feedback, backlog, and business-to-technology alignment
+**Focus:** Omnichannel sales strategy, web applications, roadmap, backlog prioritization
 
-## Context
+## Executive summary
 
-X7 Brasil developed web applications to support omnichannel sales. The product work connected commercial needs with application capabilities and required ongoing communication between users, business leadership, and delivery teams.
+I developed and managed the product strategy for X7 Brasil’s omnichannel web sales applications. The strategy covered sales through online, mobile, social, email, and in-store channels. I shaped the roadmap using business strategy, user feedback, and research, prioritized the product backlog, presented plans to executives, and started and developed the Omnichannel Marketing department.
 
-## The product challenge
+## Context and product challenge
 
-The product direction had to reflect user feedback and sales needs while giving delivery teams a prioritized, understandable backlog. Executive stakeholders also needed a clear view of product direction and progress.
+The business wanted to improve sales through new channels. Product planning needed to connect the business strategy with customer input and research, then translate that direction into a roadmap and prioritized backlog for web applications supporting the broader omnichannel sales effort.
+
+The available evidence describes the strategic and product-planning work, but does not specify a particular customer segment, feature launch, or product usage metric.
 
 ## My contribution
 
-I managed product strategy and roadmap activities for web sales applications. My responsibilities included gathering and organizing user feedback, shaping and maintaining the backlog, coordinating product needs with delivery teams, and communicating product direction to executives.
+- Developed and managed the omnichannel web sales product strategy.
+- Built a roadmap from business strategy, user feedback, and research.
+- Prioritized the backlog for web application work.
+- Presented product direction and plans to executive stakeholders.
+- Started and developed the Omnichannel Marketing department.
 
-This was a product role focused on web application sales products. It was not a procurement role, and this case does not claim specific sales growth or adoption metrics that are not documented.
+## Product scope
 
-## How I approached it
+The omnichannel strategy considered sales and customer engagement across:
 
-1. **Brought user feedback into product discussions** so the roadmap could reflect observed needs.
-2. **Organized the backlog** to make product work clearer and easier to discuss with delivery partners.
-3. **Connected commercial and technical perspectives** when clarifying product requirements and priorities.
-4. **Communicated direction to executives** to support alignment around the product roadmap.
+- Online web
+- Mobile
+- Social
+- Email
+- In-store
+
+The web applications formed part of the broader channel strategy. This case does not claim that every channel was delivered through one application or a single technical platform.
+
+## How I approached the work
+
+- **Started from business direction:** connected product planning to the goal of improving sales through new channels.
+- **Used customer input:** incorporated user feedback and research into roadmap development.
+- **Made priorities visible:** organized and prioritized backlog work against the product direction.
+- **Aligned executives:** communicated the roadmap and product strategy to leadership.
+- **Built organizational capacity:** established and developed the Omnichannel Marketing function.
 
 ## Outcome and evidence
 
-The work established and communicated product direction for omnichannel web sales applications and supported delivery through roadmap and backlog management. No quantitative business impact is claimed because the available evidence does not include a verified metric.
+The work established an omnichannel product strategy and roadmap for web sales applications and created an Omnichannel Marketing function to support the area. No verified sales lift, customer adoption, conversion, or channel performance metrics are available for publication.
 
 ## What this demonstrates
 
-- Product strategy and roadmap ownership
-- User feedback and requirements translation
-- Backlog management
-- Business and technology alignment
-- Executive communication
+- Product strategy and roadmap development
+- Omnichannel sales planning across digital and in-store channels
+- Use of user feedback and research in product planning
+- Backlog prioritization and executive communication
+- Building a new cross-functional business capability
+
+## What I learned
+
+An omnichannel strategy needs a clear connection between business goals, customer input, and the work teams prioritize. Communicating that strategy to executives and creating organizational ownership are part of making the product direction actionable.
 
 ## Evidence note
 
-This case is a public-safe summary of representative work. It contains no confidential product specifications, customer information, or internal artifacts.
+This public case uses the verified scope of my strategy, roadmap, backlog, executive communication, and department-building work. It does not claim specific shipped features, technical architecture, adoption, or quantified sales results that are not supported by available evidence.
