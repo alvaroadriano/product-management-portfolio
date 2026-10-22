@@ -24,6 +24,8 @@ We established a rule for the recommendation experience: show the module only wh
 
 This decision shaped the product requirements and the collaboration with Data and Engineering around recommendation availability and presentation.
 
+The decision traded potential placement volume for relevance: the module was useful only when it had a suitable item to show. That gave the team a clear behavior for the no-recommendation case without claiming an algorithm or ranking model I did not own.
+
 ## Product scope
 
 - Connect Violet Grey’s beauty catalog to the FARFETCH marketplace experience.
@@ -41,7 +43,9 @@ This decision shaped the product requirements and the collaboration with Data an
 
 ## Outcome and evidence
 
-The marketplace integration established an initial personalized recommendation and bundled-purchase capability. Initial conversions occurred after launch. No exact conversion, average order value, revenue, or incremental uplift figures are available for publication, so this case makes no quantified impact claim.
+The marketplace integration established an initial personalized recommendation and bundled-purchase capability, and initial conversions were observed after launch. I do not have a verified baseline, attribution method, or result dataset to quantify the effect or attribute conversion lift to this work. The defensible outcome is the product capability delivered and its initial customer response.
+
+For a follow-up iteration, I would instrument eligible recommendation exposures, clicks, add-to-basket actions, bundle attachment, and downstream conversion, with page performance and checkout completion as guardrails. The [illustrative product brief](sample-violet-grey-product-brief.md) shows a proposed measurement plan; those measures are not historical results.
 
 ## What I learned
 
